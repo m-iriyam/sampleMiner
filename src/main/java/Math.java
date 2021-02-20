@@ -7,4 +7,19 @@ public class Math {
         }
         minNum = 0;
     }
+    public void changeX(){
+        x = 0;
+        x = 0;
+        x = 0;
+        x = 0;
+        x = 0;
+        x = 0;
+        x = 0;
+        x = 0;
+        x = 0;
+        x = 0;
+        x = 0;
+        x = 0;
+        x = 0;
+    }
 }
