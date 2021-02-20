@@ -1,5 +1,5 @@
 public class Main {
     public static void main(String[] args){
-        new Math().resetMinNum(true);
+        new Math().resetNumMin(true);
     }
 }
