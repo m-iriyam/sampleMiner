@@ -8,4 +8,16 @@ public class Math {
         }
         numMin = 0;
     }
+    public void changeX(){
+        x = 1;
+        x = 1;
+        x = 1;
+        x = 1;
+        x = 1;
+        x = 1;
+        x = 1;
+        x = 1;
+        x = 1;
+        x = 1;
+    }
 }
