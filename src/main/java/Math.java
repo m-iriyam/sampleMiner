@@ -1,11 +1,10 @@
 public class Math {
-    int minNum;
+    int numMin;
     int x,y;
-    public void resetMinNum(boolean b) {
+    public void resetNumMin(boolean b) {
         if(b) {
             x = 0;
-            y = 0;
         }
-        minNum = 0;
+        numMin = 0;
     }
 }
