@@ -3,8 +3,8 @@ public class Math {
     int x,y;
     public void resetNumMin(boolean b) {
         if(b) {
-            x = 0;
             y = 0;
+            x = 0;
         }
         numMin = 0;
     }
